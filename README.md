@@ -1,7 +1,7 @@
 # Paste
 A completely client side pastebin service. The contents of the paste are compressed into the URL of the paste using [LZMA](https://github.com/LZMA-JS/LZMA-JS) for compression.
 
-Pros:
+⚡ Pros:
 - No need for a server
 - No data loss associated with the website going down (you can always decompress the url using another program)
 - Privacy (all client side)
